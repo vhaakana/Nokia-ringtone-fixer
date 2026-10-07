@@ -4,7 +4,7 @@ Tools for fixing and extracting valid Nokia `.rng` ringtones sent via Infrared (
 
 ## The Problem
 
-When sending a custom ringtone via Infrared (IrDA) directly from a Nokia 9110 Communicator to a PC or non-Communicator device, the transferred file contains proprietary Nokia wrapper header bytes prepended to the actual ringtone payload. As a result, media players and conversion utilities flag the file as corrupt or unplayable.
+When sending a custom ringtone via Infrared (IrDA) directly from a Nokia 9110 Communicator to a PC or non-Communicator device, the transferred file contains proprietary Nokia wrapper header bytes prepended to the actual ringtone payload. As a result, Symbian phones newer than the Nokia 9210 Communicator flag the file as corrupt or unplayable.
 
 To get a playable ringtone file directly off a Nokia 9110 **without using these scripts**, you *must* send it via IrDA to a **Nokia 9210 Communicator** specifically. The 9210 handles the proprietary stream correctly and allows saving a clean file. Without access to a Nokia 9210 Communicator or this cleanup logic, extracting a functional ringtone file directly onto a PC is, as far as I know, impossible.
 
