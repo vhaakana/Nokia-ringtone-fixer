@@ -1,6 +1,6 @@
 # Nokia 9110 Communicator Ringtone Fixer (`.rng`)
 
-Tools for fixing and extracting valid Nokia `.rng` ringtones sent via Infrared (IrDA) directly from a **Nokia 9110 Communicator** to modern PCs or legacy machines. Written by Claude on the basis of older, unpublished scripts by Gemini (modern) and Gemini+ChatGPT (legacy).
+Tools for fixing and extracting valid Nokia `.rng` ringtones sent via Infrared (IrDA) directly from a **Nokia 9110 Communicator** to modern PCs or legacy machines. Written by Claude Pro on the basis of older, unpublished scripts by Gemini (modern) and Gemini+ChatGPT (legacy).
 
 ## The Problem
 
