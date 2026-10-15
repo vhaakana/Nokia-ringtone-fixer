@@ -26,7 +26,7 @@ Both scripts do exactly the same thing; they differ only in which Python version
 
 `convert_rng_legacy.py` does **not** run on Python 3, and `convert_rng.py` does not run on Python 2.5 or older.
 
-The script `convert_rng.py` has been tested on Python 3.9 on Windows 10, and Claude Pro said that it tested it on Python 1.5.2, 2.0, 2.7 and 3.13 (on Linux).
+The script `convert_rng.py` has been tested on Python 3.9 on Windows 10, and Claude Pro said that it tested both on Python 1.5.2, 2.0, 2.7 and 3.13 (on Linux).
 
 ## Usage Instructions
 
